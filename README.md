@@ -1,5 +1,5 @@
 # career-center-volunteer-website
-CSC 131 project for creating and managing career center volunteer website   
+CSC 131 project for creating and managing a career center volunteer website   
 # Career Center Volunteer Website
 
 ## Team Name
@@ -27,4 +27,4 @@ The career center plays an important role at Sacramento State University. This i
 ## Technologies 
 - Frontend: HTML, CSS, JavaScript, Figma (UI Design)
 - Backend: Python
-- Database: mysql
+- Database: MySQL
