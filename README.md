@@ -1,16 +1,61 @@
-# React + Vite
+# Career Center Volunteer Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## CSC 131 Project
 
-Currently, two official plugins are available:
+### Team Name
+**5 Guys**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Team Members
+- Raja Bal  
+- Sayed Sayeed  
+- Alexander Sandoval  
+- Ahab Badar  
+- Tristan Manacap  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Description
 
-## Expanding the ESLint configuration
+The Career Center plays an important role at Sacramento State University by helping students prepare and succeed in their careers through events and opportunities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+However, the current system lacks organization, accessibility, and efficient management, making it difficult for students to engage with available resources.
+
+Our proposed Career Center Website aims to solve these issues by providing a user-friendly platform that allows students to easily access events, sign up for opportunities, and manage their accounts.
+
+Features such as account management, search functionality, event tracking, and notifications will improve both user experience and administrative efficiency.
+
+---
+
+## Features
+
+- User account management (create, edit, delete)
+- Event search and filtering
+- Event sign-up and cancellation
+- Notification system
+- Calendar and event tracking
+- Help page
+- About Us page
+
+---
+
+## Technologies
+
+### Frontend
+- React (Vite)
+- JavaScript
+- HTML/CSS
+- Figma (UI Design)
+
+### Backend
+- Python (Flask)
+
+### Database
+- MySQL
+
+---
+
+## How to Run the Project
+
+```bash
+npm install
+npm run dev
