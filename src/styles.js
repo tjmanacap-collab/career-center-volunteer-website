@@ -332,6 +332,54 @@ const styles = {
     textAlign: "center",
     marginTop: "16px",
   },
+  /* signup page */
+  signupBody: {
+    flex: 1,
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    padding: "40px 20px",
+  },
+  signupContainer: {
+    backgroundColor: "white",
+    padding: "40px 35px",
+    borderRadius: "12px",
+    width: "420px",
+    boxShadow: "0 8px 24px rgba(0,0,0,0.3)",
+    fontFamily: "'Poppins', Arial, sans-serif",
+    animation: "fadeIn 0.4s ease",
+  },
+  submitBtn: {
+    width: "100%",
+    padding: "12px",
+    backgroundColor: "#043927",
+    color: "white",
+    border: "none",
+    borderRadius: "8px",
+    fontSize: "15px",
+    fontWeight: 600,
+    fontFamily: "'Poppins', Arial, sans-serif",
+    cursor: "pointer",
+    marginTop: "6px",
+  },
+  strengthBar: {
+    height: "4px",
+    borderRadius: "4px",
+    marginTop: "8px",
+    transition: "width 0.3s, background-color 0.3s",
+  },
+  strengthLabel: {
+    fontSize: "11px",
+    marginTop: "4px",
+    fontWeight: 500,
+  },
+  loginText: { textAlign: "center", fontSize: "13px", color: "#666" },
+  loginLink: {
+    color: "#C4B000",
+    fontWeight: 600,
+    textDecoration: "none",
+    cursor: "pointer",
+  },
 };
 
 export default styles;

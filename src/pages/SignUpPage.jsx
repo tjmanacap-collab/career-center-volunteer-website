@@ -69,7 +69,7 @@ export default function SignUpPage({ onHomeClick, onLoginClick }) {
     if (!valid) return;
  
     setLoading(true);
-    // TODO: replace with real API/database call
+   // database logic would go here, not setup yet.
     setTimeout(() => {
       setLoading(false);
       setSuccess(true);

@@ -2,7 +2,7 @@ import { useState } from "react";
 import styles from "./styles";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
-import SignUpPage from "./SignUpPage"; 
+import SignUpPage from "./pages/SignUpPage";
 
 /* key frame for fade in animation */
 const styleTag = document.createElement("style");
