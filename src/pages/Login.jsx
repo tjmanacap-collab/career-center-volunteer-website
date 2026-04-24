@@ -24,7 +24,7 @@ export default function Login({ onHomeClick, onSignUpClick }) {
     if (!valid) return;
 
     setLoading(true);
-    // TODO: replace with real fetch / authService call
+    // TODO: replace with real 
     setTimeout(() => {
       setLoading(false);
       setSuccess(true);
